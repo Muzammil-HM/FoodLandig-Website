@@ -1,0 +1,59 @@
+* {
+  font-family: 'Merienda', cursive;
+
+}
+body{
+  overflow-x: hidden;
+}
+
+.btn-green{
+  background: hsl(89, 39%, 44%) !important;
+}
+
+.text-color{
+  color: #396C03 !important;
+}
+
+.secondary-color{
+  background-color: #FF8B00 !important;
+}
+
+.secondary-light{
+  background-color: rgba(255, 139,  0, .05) !important;
+}
+
+.font-size-65{
+  font-size: 65px;
+  font-weight: 700;
+
+}
+
+.font-size-24{
+  font-size: 24px;
+}
+
+.hero-bg{
+ background-color: rgba(107, 145, 66, 0.1);
+}
+
+.card-bg{
+  background-color: ghostwhite;
+ backdrop-filter: blur(6px);
+}
+.color{
+  color: #FF8B00;
+  font-weight: 800;
+}
+
+.logo-card{
+  background-image: url("./images/cook-image.svg");
+  height: 100vh;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover; 
+}
+
+.footer-color{
+  background-color:#396C03;
+}
